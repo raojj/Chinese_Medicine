@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f97b2f6d-a0b3-4831-9486-44916d043797" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Java/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Chinese_Medicine/src/main/java/pdf_extract/PdfKeywordSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Chinese_Medicine/src/main/java/pdf_extract/PdfKeywordSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonChineseMedicine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonChineseMedicine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kit/05_AudioCut.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kit/05_AudioCut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kit/09_sanYuanBingLi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kit/09_sanYuanBingLi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keywordPairs/Keywords.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/keywordPairs/Keywords.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keywordPairs/error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/keywordPairs/error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keywordPairs/getKeywordSentenceForNeiJing.py" beforeDir="false" afterPath="$PROJECT_DIR$/keywordPairs/getKeywordSentenceForNeiJing.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jTJRyCRxYa3owzh5GMZFblr0qv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.02_KS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_AudioCut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_sanYuanBingLi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_piLiangTiHuan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12_messageExtract.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.txtFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14_wordcloud_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getKeywordSentenceForNeiJing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f97b2f6d-a0b3-4831-9486-44916d043797" name="Changes" comment="" />
+      <created>1721405129709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721405129709</updated>
+      <workItem from="1721405131571" duration="98000" />
+      <workItem from="1721405372716" duration="38000" />
+      <workItem from="1721554642810" duration="604000" />
+      <workItem from="1721826815075" duration="414000" />
+      <workItem from="1722151898897" duration="120000" />
+      <workItem from="1722828387878" duration="491000" />
+      <workItem from="1723713942997" duration="15000" />
+      <workItem from="1724636827947" duration="111000" />
+      <workItem from="1724981729475" duration="1358000" />
+      <workItem from="1724983971292" duration="73000" />
+      <workItem from="1725454765465" duration="147000" />
+      <workItem from="1726189370572" duration="202000" />
+      <workItem from="1726280345830" duration="751000" />
+      <workItem from="1726281116967" duration="100000" />
+      <workItem from="1726922553895" duration="290000" />
+      <workItem from="1727353051199" duration="2241000" />
+      <workItem from="1727360382478" duration="2004000" />
+      <workItem from="1727491781218" duration="90000" />
+      <workItem from="1728110748089" duration="59000" />
+      <workItem from="1728114695017" duration="4306000" />
+      <workItem from="1729218926809" duration="255000" />
+      <workItem from="1729225274297" duration="777000" />
+      <workItem from="1729226666935" duration="69000" />
+      <workItem from="1729645481340" duration="221000" />
+      <workItem from="1730168362818" duration="92000" />
+      <workItem from="1730168654823" duration="40000" />
+      <workItem from="1730856788842" duration="175000" />
+      <workItem from="1731241501252" duration="123000" />
+      <workItem from="1731823071055" duration="111000" />
+      <workItem from="1732632897680" duration="151000" />
+      <workItem from="1732634316826" duration="3000" />
+      <workItem from="1732955332879" duration="1213000" />
+      <workItem from="1735127872983" duration="594000" />
+      <workItem from="1735825620720" duration="163000" />
+      <workItem from="1736597437671" duration="587000" />
+      <workItem from="1736824782618" duration="4175000" />
+      <workItem from="1736829125540" duration="243000" />
+      <workItem from="1737037249218" duration="53000" />
+      <workItem from="1737037315310" duration="621000" />
+      <workItem from="1737213724955" duration="174000" />
+      <workItem from="1737731257054" duration="31000" />
+      <workItem from="1737818717906" duration="55000" />
+      <workItem from="1739624559545" duration="820000" />
+      <workItem from="1739625404346" duration="56000" />
+      <workItem from="1739625468354" duration="139000" />
+      <workItem from="1739625619900" duration="24000" />
+      <workItem from="1739625649170" duration="692000" />
+      <workItem from="1739626998812" duration="550000" />
+      <workItem from="1739702576551" duration="826000" />
+      <workItem from="1739870169392" duration="1615000" />
+      <workItem from="1739872273520" duration="110000" />
+      <workItem from="1739872395581" duration="25000" />
+      <workItem from="1739872425805" duration="630000" />
+      <workItem from="1739881880094" duration="885000" />
+      <workItem from="1740315300896" duration="993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$11_piLiangTiHuan.coverage" NAME="11_piLiangTiHuan Coverage Results" MODIFIED="1725454839418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kit" />
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$14_wordcloud_generator.coverage" NAME="14_wordcloud_generator Coverage Results" MODIFIED="1737037903405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kit" />
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$test.coverage" NAME="test Coverage Results" MODIFIED="1739871706006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolo" />
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$13_txtFile.coverage" NAME="13.txtFile Coverage Results" MODIFIED="1736828654873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kit" />
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$12_messageExtract.coverage" NAME="12_messageExtract Coverage Results" MODIFIED="1728118431438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kit" />
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$05_AudioCut.coverage" NAME="05_AudioCut Coverage Results" MODIFIED="1740315639034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kit" />
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$09_sanYuanBingLi.coverage" NAME="09_sanYuanBingLi Coverage Results" MODIFIED="1740316298409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kit" />
+    <SUITE FILE_PATH="coverage/03_AudioCut_py$02_KS.coverage" NAME="02_KS Coverage Results" MODIFIED="1721405184535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/parser/Drission" />
+    <SUITE FILE_PATH="coverage/03_txtExtract_py$getKeywordSentenceForNeiJing.coverage" NAME="getKeywordSentenceForNeiJing Coverage Results" MODIFIED="1729226706125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/keywordPairs" />
+  </component>
+</project>
