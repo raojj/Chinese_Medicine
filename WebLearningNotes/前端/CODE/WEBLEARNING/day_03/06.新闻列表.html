@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        div.nav {
+            width: 298px;
+            height: 198px;
+            border: 1px solid black;
+            margin: 100px auto;
+            padding: 15px;
+        }
+
+        div>h2 {
+            font-size: 18px;
+            border-bottom: 1px solid black;
+            padding-bottom: 2px;
+        }
+
+        li {
+            /* 取消list标点 */
+            list-style: none;
+        }
+
+        .nav ul li {
+            height: 30px;
+            border-bottom: 1px dashed black;
+            background: url(images/icon.png) no-repeat;
+            background-position: 5px center;
+        }
+
+
+        .nav ul li a {
+            text-decoration: none;
+            color: black;
+            font-size: 12px;
+            line-height: 30px;
+            margin-left: 30px;
+        }
+
+        .nav ul li a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="nav">
+        <!-- 标题盒子 -->
+        <h2>最新文章/New Articles</h2>
+        <!-- 列表盒子 -->
+        <ul>
+            <li><a href="#">北京招聘网页设计、平面设计、php</a></li>
+            <li><a href="#">体验JavaScript的魅力</a></li>
+            <li><a href="#">Jquery世界来临</a></li>
+            <li><a href="#">网页设计师的梦想</a></li>
+            <li><a href="#">Jquery中的链式编程是什么</a></li>
+        </ul>
+    </div>
+</body>
+
+</html>
